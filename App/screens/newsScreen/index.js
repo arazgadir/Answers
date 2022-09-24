@@ -5,7 +5,7 @@ export const NewsScreen = () => {
 
     return (
         <View>
-            <Text>NewsScreen</Text>
+            <Text style={{fontSize:26}}>NewsScreen</Text>
         </View>
     )
 }

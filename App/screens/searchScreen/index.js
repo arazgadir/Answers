@@ -5,7 +5,7 @@ export const SearchScreen = () => {
 
     return (
         <View>
-            <Text>SearchScreen</Text>
+            <Text style={{fontSize:26}}>SearchScreen</Text>
         </View>
     )
 }

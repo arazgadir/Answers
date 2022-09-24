@@ -24,7 +24,7 @@ const BottomTabNavigator = () => {
             tabBarItemStyle: { height: 70, borderRadius: 10 },
             tabBarHideOnKeyboard: true,
             tabBarLabelStyle: { fontSize: 15 },
-            tabBarShowLabel: false
+            tabBarShowLabel: false,
         })}
         >
             <BottomTab.Screen

@@ -5,7 +5,7 @@ export const HomeScreen = () => {
 
     return (
         <View>
-            <Text>HomeScreen</Text>
+            <Text style={{fontSize:26}}>HomeScreen</Text>
         </View>
     )
 }
